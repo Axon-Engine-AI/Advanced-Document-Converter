@@ -231,4 +231,5 @@ Cross-platform support
 
 Responsive web interface
 
+
 Note: This application processes files on your local machine. No documents are uploaded to external servers, ensuring your data privacy and security.
