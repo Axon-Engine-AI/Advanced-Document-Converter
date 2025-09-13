@@ -1,0 +1,13 @@
+streamlit==1.38.0
+pymupdf==1.24.9
+python-docx==1.1.2
+comtypes==1.4.8
+img2pdf==0.5.1
+pillow==10.4.0
+pandas==2.2.3
+python-pptx==1.0.2
+aspose.slides==24.8.0
+aspose.words==24.8.0
+aspose.pdf==24.8.0
+aspose.cells==24.8.0
+reportlab==4.4.3
