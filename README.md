@@ -1,9 +1,7 @@
 ## 📄 Advanced Document Converter
 A powerful Streamlit-based web application for converting between various document formats. This tool provides a user-friendly interface for all your document conversion needs.
 
-https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white <br>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white <br>
-https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white <br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"> 
 
 ---
 # ✨ Features
